@@ -1,6 +1,8 @@
 '''
 Table: Employee
+Level: Hard
 
+Problem:
 +--------------+---------+
 | Column Name  | Type    |
 +--------------+---------+
